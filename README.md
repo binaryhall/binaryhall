@@ -1,46 +1,19 @@
-<h2 align="left">Hi 👋! My name is Inal</h2>
 
----
+## Connect with me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i.karakhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/inal-karakhanli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:the.inalbey@outlook.com) 
 
- ![](https://github-readme-stats.vercel.app/api?username=binaryhall&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=binaryhall&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=binaryhall&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+# Stats:
+![](https://github-readme-stats.shion.dev/api?username=binaryhall&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=binaryhall&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=binaryhall&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 <img align="right" height="150" src="https://media.tenor.com/jP0qr_Ha7_MAAAAj/darksouls-knight.gif" alt="Dark Souls Knight" />
 
-### 🛠️ Languages & Tools
-
-<div align="left">
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-rust-3d-icon-7578020.png?f=webp" height="40" alt="Rust" />
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-vuejs-3d-logo-3640297.png?f=webp" height="40" alt="Vue.js" />
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-typescript-3d-icon-7577992.png" height="40" alt="TypeScript" />
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-javascript-3d-icon-7577991.png?f=webp" height="40" alt="JavaScript" />
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-nodejs-3d-icon-7578002.png?f=webp" height="40" alt="Node.js" />
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-3d-icon-7578018.png?f=webp" height="40" alt="HTML5" />
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-css-3d-icon-7578024.png?f=webp" height="40" alt="CSS3" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-logo-icon-1175119.png?f=webp" height="40" alt="PostgreSQL" />
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-7577996.png?f=webp" height="40" alt="MongoDB" />
-</div>
-
----
-
-### 📫 Connect with me
-
-<div align="left">
-  <a href="https://www.instagram.com/i.karakhan/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/inal-karakhanli/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="mailto:the.inalbey@outlook.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
-  </a>
-</div>
+[![](https://komarev.com/ghpvc/?username=binaryhall&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
